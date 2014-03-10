@@ -1,0 +1,33 @@
+2014-03-10T10:46:34.925144 p:24516 t:0x110953000 [LOG] -------->>
+2014-03-10T10:46:34.925468 p:24516 t:0x110953000 [LOG] Core session started by bryantd on bryantd-mac.ddpsc.org
+2014-03-10T10:46:34.925490 p:24516 t:0x110953000 [LOG] Debug logging disabled
+2014-03-10T10:47:15.105640 p:24523 t:0x109953000 [LOG] -------->>
+2014-03-10T10:47:15.105848 p:24523 t:0x109953000 [LOG] Core session started by bryantd on bryantd-mac.ddpsc.org
+2014-03-10T10:47:15.105859 p:24523 t:0x109953000 [LOG] Debug logging disabled
+2014-03-10T10:47:29.960027 p:24528 t:0x108353000 [LOG] -------->>
+2014-03-10T10:47:29.960212 p:24528 t:0x108353000 [LOG] Core session started by bryantd on bryantd-mac.ddpsc.org
+2014-03-10T10:47:29.960224 p:24528 t:0x108353000 [LOG] Debug logging disabled
+2014-03-10T10:48:04.349046 p:24537 t:0x10bb53000 [LOG] -------->>
+2014-03-10T10:48:04.349246 p:24537 t:0x10bb53000 [LOG] Core session started by bryantd on bryantd-mac.ddpsc.org
+2014-03-10T10:48:04.349257 p:24537 t:0x10bb53000 [LOG] Debug logging disabled
+2014-03-10T10:49:46.449474 p:24550 t:0x10d553000 [LOG] -------->>
+2014-03-10T10:49:46.449670 p:24550 t:0x10d553000 [LOG] Core session started by bryantd on bryantd-mac.ddpsc.org
+2014-03-10T10:49:46.449686 p:24550 t:0x10d553000 [LOG] Debug logging disabled
+2014-03-10T10:52:00.227559 p:24575 t:0x10e153000 [LOG] -------->>
+2014-03-10T10:52:00.227657 p:24575 t:0x10e153000 [LOG] Core session started by bryantd on bryantd-mac.ddpsc.org
+2014-03-10T10:52:00.227667 p:24575 t:0x10e153000 [LOG] Debug logging disabled
+2014-03-10T11:19:57.144258 p:24815 t:0x10c153000 [LOG] -------->>
+2014-03-10T11:19:57.144377 p:24815 t:0x10c153000 [LOG] Core session started by bryantd on bryantd-mac.ddpsc.org
+2014-03-10T11:19:57.144387 p:24815 t:0x10c153000 [LOG] Debug logging disabled
+2014-03-10T11:23:20.702958 p:24842 t:0x1005e0000 [LOG] -------->>
+2014-03-10T11:23:20.703049 p:24842 t:0x1005e0000 [LOG] Core session started by bryantd on bryantd-mac.ddpsc.org
+2014-03-10T11:23:20.703063 p:24842 t:0x1005e0000 [LOG] Debug logging disabled
+2014-03-10T13:56:53.293116 p:26269 t:0x10a12e000 [LOG] -------->>
+2014-03-10T13:56:53.293212 p:26269 t:0x10a12e000 [LOG] Core session started by bryantd on bryantd-mac.ddpsc.org
+2014-03-10T13:56:53.293226 p:26269 t:0x10a12e000 [LOG] Debug logging disabled
+2014-03-10T13:57:00.641684 p:26273 t:0x10f318000 [LOG] -------->>
+2014-03-10T13:57:00.641792 p:26273 t:0x10f318000 [LOG] Core session started by bryantd on bryantd-mac.ddpsc.org
+2014-03-10T13:57:00.641807 p:26273 t:0x10f318000 [LOG] Debug logging disabled
+2014-03-10T13:57:09.316409 p:26277 t:0x10c953000 [LOG] -------->>
+2014-03-10T13:57:09.316513 p:26277 t:0x10c953000 [LOG] Core session started by bryantd on bryantd-mac.ddpsc.org
+2014-03-10T13:57:09.316524 p:26277 t:0x10c953000 [LOG] Debug logging disabled
